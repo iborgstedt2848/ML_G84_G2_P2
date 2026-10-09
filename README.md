@@ -54,5 +54,6 @@ Results, plots, and discussion are in `segunda_practica.ipynb`.
 ## Authors
 
 Group G2 — Machine Learning, group G84.
+Isabelle Borgstedt
 
 <!-- Add team member names here -->
